@@ -8,6 +8,7 @@ For questions and discussion join the [Keras Slack](https://keras-slack-autojoin
 ## Setup
 
 1. Clone this repository
+1. `cd anchor-optimization`
 1. `pip install .`
 1. `python setup.py build_ext --inplace`
 
